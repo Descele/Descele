@@ -1,0 +1,123 @@
+---
+layout: default
+title: Portfolio
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+---
+## *Planning Information Systems*  
+Python programmer with Urban Planning background specializing in data-driven policy solutions.  
+
+---
+
+## **🛠️ My Technical Toolkit**  
+
+| Category              | Core Skills                                                                                     | Specialized Libraries                                                                           |
+|-----------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Programming**       | [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)](https://www.python.org/) [![Random](https://img.shields.io/badge/Random-StdLib-999999)](https://docs.python.org/3/library/random.html) | [![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT_4-412991?logo=openai)](https://platform.openai.com/docs) |
+| **Data Analysis**     | [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas)](https://pandas.pydata.org/) [![CSV](https://img.shields.io/badge/CSV-StdLib-239120)](https://docs.python.org/3/library/csv.html) | [![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy)](https://numpy.org/) [![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy)](https://scipy.org/) |
+| **Visualization**     | [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?logo=matplotlib)](https://matplotlib.org/) | [![Folium](https://img.shields.io/badge/Folium-0.14+-77B829?logo=leaflet)](https://python-visualization.github.io/folium/) |
+| **Geospatial**        | [![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-2C2D2E?logo=esri)](https://www.esri.com/) | [![QGIS](https://img.shields.io/badge/QGIS-3.28+-589632?logo=qgis)](https://qgis.org/) [![GeoPandas](https://img.shields.io/badge/GeoPandas-0.12+-E5A50C)](https://geopandas.org/) | 
+
+---
+
+## **🚀 Featured Projects**  
+
+### **1. [Housing Data Explorer](https://github.com/Descele/CIP5-Project1)**  
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/) 
+[![GitHub stars](https://img.shields.io/github/stars/Descele/CIP5_Project1?style=social)](https://github.com/Descele/CIP5_Project1/stargazers)  
+**ACS housing data analyzer for Western NY**  
+📌 *Tags: `urban-data` `python` `affordability-analysis`*
+
+• Processes American Community Survey data to reveal  
+• Occupancy trends and hidden housing gaps  
+**Key Achievement: Identifies ZIP codes with underreported vacancies for targeted policy interventions.**  
+🔗 [Repository](https://github.com/Descele/CIP5_Project1) | [Dataset](https://www.census.gov/programs-surveys/acs) | [![1m Demo](https://img.shields.io/badge/▶_1:04_Demo-2d3e50?style=for-the-badge&logoColor=white)](https://www.loom.com/share/5df07986504e4ccaa9a161e0bd5bb3fb)
+
+---
+
+### **2. [Housing Policy Simulator](https://github.com/Descele/CIP5-Project2)**  
+[![CLI](https://img.shields.io/badge/CLI-Game-yellowgreen)](https://en.wikipedia.org/wiki/Command-line_interface) 
+[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/Descele/CIP5-Project2/blob/main/LICENSE)  
+**Interactive mayor decision game**  
+📌 *Tags: `policy-modeling` `urban-simulation` `python`*  
+
+• Mayor decision simulator with dynamic affordability metrics  
+• Demonstrating rent control vs. transit investment tradeoffs  
+**Innovation: Models complex urban economics using only random and I/O.**  
+🔗 [Repository](https://github.com/Descele/CIP5_Project2) | [![1m Demo](https://img.shields.io/badge/▶_1:04_Demo-2d3e50?style=for-the-badge&logoColor=white)](https://www.loom.com/share/f62bdab0c76b434c9a75204b689badb6)
+
+---
+
+### **3. [Neighborhood Livability Scanner](https://github.com/Descele/CIP5-Project3)**  
+[![AI](https://img.shields.io/badge/AI-GPT_4-9cf)](https://openai.com/gpt-4) 
+[![OpenAPI](https://img.shields.io/badge/API-OpenAI-purple)](https://platform.openai.com/docs)  
+**AI-powered community assessment tool**  
+📌 *Tags: `gpt-4` `urban-planning` `python`*  
+
+• Resident-powered tool scoring 6 livability factors  
+• With AI-generated improvement recommendations  
+**Aim: Democratizes urban analytics by converting resident feedback into actionable policy insights.**  
+🔗 [Repository](https://github.com/Descele/CIP5_Project3) | [API Docs](https://platform.openai.com/docs) | [![0:59 Demo](https://img.shields.io/badge/▶_0:59_Demo-2d3e50?style=for-the-badge&logoColor=white)](https://www.loom.com/share/33536c0afa4141d698e2f0ff779f27ba)
+
+---
+
+### **4. [Rainbow Geometry Generator](https://github.com/Descele/CIP5_Project4)**  
+[![GUI](https://img.shields.io/badge/GUI-Canvas-blue)](https://en.wikipedia.org/wiki/Graphical_user_interface) 
+[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/Descele/CIP5_Project4/blob/main/LICENSE)  
+**Generative geometric art**  
+📌 *Tags: `python-graphics` `generative-art` `creative-coding`*  
+
+• 600x600px canvas with nested rainbow shapes  
+• Alternating rectangles/ovals with contrast cores  
+**Innovation: Transforms basic shapes into striking patterns using only graphics.py.**  
+🔗 [Repository](https://github.com/Descele/CIP5_Project4) |
+
+---
+
+## 🎓 Education & Credentials 
+| Degree/Certification          | Institution                          |  
+|-------------------------------|--------------------------------------|  
+| Ph.D. (In Progress)           | University at Buffalo                |  
+| MTRP, Urban Planning          | University of KwaZulu-Natal          |  
+| BT, Urban Planning            | Durban University of Technology      |  
+| **Code in Place**(Programming)| Stanford University                  |  
+| **Designing with AI**(EdTech) | University of Cape Town              |  
+
+---
+
+## Code in Place Certification  
+*Stanford CS106A Methodology | 2025*  
+
+| Week | Focus Area | Skills Badges |  
+|------|------------|---------------|  
+| 1 | **Karel Foundations** | [![Algorithms](https://img.shields.io/badge/-Algorithms-brightgreen)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) [![Loops](https://img.shields.io/badge/-For/While_Loops-blue)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4.html) [![Conditionals](https://img.shields.io/badge/-If_Statements-orange)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter3.html) |  
+| 2 | **Stepwise Refinement** | [![Decomposition](https://img.shields.io/badge/-Problem_Decomposition-9cf)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter7.html) [![Debugging](https://img.shields.io/badge/-Debugging-purple)](https://compedu.stanford.edu/codeinplace/faq#debugging) |  
+| 3 | **Python Essentials** | [![I/O](https://img.shields.io/badge/-Input/Output-yellow)](https://docs.python.org/3/tutorial/inputoutput.html) [![Math](https://img.shields.io/badge/-Arithmetic-blue)](https://docs.python.org/3/tutorial/introduction.html#numbers) [![Random](https://img.shields.io/badge/-Random_Lib-success)](https://docs.python.org/3/library/random.html) |  
+| 4 | **Creative Graphics** | [![GUI](https://img.shields.io/badge/-Canvas_Graphics-ff69b4)](https://cs.stanford.edu/people/nick/graphics-py/) [![Functions](https://img.shields.io/badge/-Modular_Code-important)](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) |  | 5 | **Data Structures** | [![Lists](https://img.shields.io/badge/-Lists-2d3e50)](https://docs.python.org/3/tutorial/datastructures.html) [![Dictionaries](https://img.shields.io/badge/-Dicts-8a2be2)](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) [![Search](https://img.shields.io/badge/-Search_Algos-brightgreen)](https://compedu.stanford.edu/codeinplace/faq#searching) |  
+| 5 | **Data Structures** | [![Lists](https://img.shields.io/badge/-Lists-2d3e50)](https://docs.python.org/3/tutorial/datastructures.html) [![Dictionaries](https://img.shields.io/badge/-Dicts-8a2be2)](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) [![Search](https://img.shields.io/badge/-Search_Algos-brightgreen)](https://compedu.stanford.edu/codeinplace/faq#searching) |  
+
+---
+
+## Designing with AI Certification  
+*University of Cape Town | 2024*  
+[![UCT Verified](https://img.shields.io/badge/QR_Verified_Credential-View_Here-228B22?style=flat-square)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
+
+| Week | Focus Area | Skills Badges |  
+|------|------------|---------------|  
+| 1 | **AI Foundations** | [![Generative AI](https://img.shields.io/badge/-Generative_AI-8A2BE2)](https://cilt.uct.ac.za/Designing_with_AI#week1) [![Tool Proficiency](https://img.shields.io/badge/-OpenArt/Copilot-FF69B4)](https://cilt.uct.ac.za/Designing_with_AI#week1) [![Prompt Basics](https://img.shields.io/badge/-Prompt_Design-9CF)](https://cilt.uct.ac.za/Designing_with_AI#week1) |  
+| 2 | **Prompt Engineering** | [![Precision Prompting](https://img.shields.io/badge/-Precision_Prompts-2D3E50)](https://cilt.uct.ac.za/Designing_with_AI#week2) [![Contextual Design](https://img.shields.io/badge/-Context_Design-008080)](https://cilt.uct.ac.za/Designing_with_AI#week2) [![Video Generation](https://img.shields.io/badge/-Invideo_Tool-4682B4)](https://cilt.uct.ac.za/Designing_with_AI#week2) [![LLMs](https://img.shields.io/badge/-LLM_Integration-000080)](https://cilt.uct.ac.za/Designing_with_AI#week2) |  
+| 3 | **AI for Education** | [![Lesson Planning](https://img.shields.io/badge/-AI_Lesson_Design-20B2AA)](https://cilt.uct.ac.za/Designing_with_AI#week3) [![Research Validation](https://img.shields.io/badge/-Consensus_Tool-9370DB)](https://cilt.uct.ac.za/Designing_with_AI#week3) [![Brainstorming](https://img.shields.io/badge/-Ideamap-32CD32)](https://cilt.uct.ac.za/Designing_with_AI#week3) |  
+| 4 | **Learning Design** | [![Course Creation](https://img.shields.io/badge/-Turboscribe-FF6347)](https://cilt.uct.ac.za/Designing_with_AI#week4) [![Micro-Courses](https://img.shields.io/badge/-Micro_Design-FFD700)](https://cilt.uct.ac.za/Designing_with_AI#week4) [![Interdisciplinary AI](https://img.shields.io/badge/-Cross_Disciplinary-4B0082)](https://cilt.uct.ac.za/Designing_with_AI#week4) |  
+| 5 | **AI Ethics** | [![Bias Mitigation](https://img.shields.io/badge/-Bias_Detection-FF4500)](https://cilt.uct.ac.za/Designing_with_AI#week5) [![Philosophical Frameworks](https://img.shields.io/badge/-AI_Mediation-9932CC)](https://cilt.uct.ac.za/Designing_with_AI#week5) [![Open Education](https://img.shields.io/badge/-Accessibility-228B22)](https://cilt.uct.ac.za/Designing_with_AI#week5) |  
+ 
+---
+
+## **📚 Publications & Research**  
+• **Cele, D.** (2016). *Towards achieving diversity through collaborative planning in mixed use precincts...*  
+[![DOI](https://img.shields.io/badge/DOI-10.1234/abcd-blue)](https://www.researchgate.net/publication/315951040)
+
+---
+
+## 🌐 Let's Collaborate!  
+📫 Reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/desiree-cele-783a7026/)
