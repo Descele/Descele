@@ -19,6 +19,14 @@ plugins:
 ---
 ## *Planning Information Systems*  
 Python programmer with Urban Planning background specializing in data-driven policy solutions.  
+## 🎓 Education & Credentials 
+| Degree/Certification          | Institution                       |  
+|-------------------------------|-----------------------------------|  
+| Ph.D. (In Progress)           | University at Buffalo             |  
+| MTRP, Urban Planning          | University of KwaZulu-Natal       |  
+| BT, Urban Planning            | Durban University of Technology   |  
+| **Code in Place**(Programming)| Stanford University               |  
+| **Designing with AI**(EdTech) | University of Cape Town           |  
 
 ---
 
@@ -75,8 +83,7 @@ Python programmer with Urban Planning background specializing in data-driven pol
 ---
 
 ### **4. [Rainbow Geometry Generator](https://github.com/Descele/CIP5_Project4)**  
-[![GUI](https://img.shields.io/badge/GUI-Canvas-blue)](https://en.wikipedia.org/wiki/Graphical_user_interface) 
-[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/Descele/CIP5_Project4/blob/main/LICENSE)  
+[![GUI](https://img.shields.io/badge/GUI-Canvas-blue)](https://en.wikipedia.org/wiki/Graphical_user_interface)  
 **Generative geometric art**  
 📌 *Tags: `python-graphics` `generative-art` `creative-coding`*  
 
@@ -84,17 +91,6 @@ Python programmer with Urban Planning background specializing in data-driven pol
 • Alternating rectangles/ovals with contrast cores  
 **Innovation: Transforms basic shapes into striking patterns using only graphics.py.**  
 🔗 [Repository](https://github.com/Descele/CIP5_Project4) |
-
----
-
-## 🎓 Education & Credentials 
-| Degree/Certification          | Institution                       |  
-|-------------------------------|-----------------------------------|  
-| Ph.D. (In Progress)           | University at Buffalo             |  
-| MTRP, Urban Planning          | University of KwaZulu-Natal       |  
-| BT, Urban Planning            | Durban University of Technology   |  
-| **Code in Place**(Programming)| Stanford University               |  
-| **Designing with AI**(EdTech) | University of Cape Town           |  
 
 ---
 ## Code in Place Certification  
@@ -120,7 +116,20 @@ Python programmer with Urban Planning background specializing in data-driven pol
 | 3 | **AI for Education** | [![Lesson Planning](https://img.shields.io/badge/-AI_Lesson_Design-20B2AA)](https://cilt.uct.ac.za/Designing_with_AI#week3) [![Research Validation](https://img.shields.io/badge/-Consensus_Tool-9370DB)](https://cilt.uct.ac.za/Designing_with_AI#week3) [![Brainstorming](https://img.shields.io/badge/-Ideamap-32CD32)](https://cilt.uct.ac.za/Designing_with_AI#week3) |  
 | 4 | **Learning Design** | [![Course Creation](https://img.shields.io/badge/-Turboscribe-FF6347)](https://cilt.uct.ac.za/Designing_with_AI#week4) [![Micro-Courses](https://img.shields.io/badge/-Micro_Design-FFD700)](https://cilt.uct.ac.za/Designing_with_AI#week4) [![Interdisciplinary AI](https://img.shields.io/badge/-Cross_Disciplinary-4B0082)](https://cilt.uct.ac.za/Designing_with_AI#week4) |  
 | 5 | **AI Ethics** | [![Bias Mitigation](https://img.shields.io/badge/-Bias_Detection-FF4500)](https://cilt.uct.ac.za/Designing_with_AI#week5) [![Philosophical Frameworks](https://img.shields.io/badge/-AI_Mediation-9932CC)](https://cilt.uct.ac.za/Designing_with_AI#week5) [![Open Education](https://img.shields.io/badge/-Accessibility-228B22)](https://cilt.uct.ac.za/Designing_with_AI#week5) |  
- 
+---
+## ** Work Experience**  
+### **GIS Technician** | *Umkhanyakude District Municipality*   
+- **Optimized spatial query performance by restructuring the first-gen GIS database, unifying 5 local authority datasets → 30% faster planning decisions and streamlined analytics.
+
+- **Migrated on-prem GIS databases to cloud-based solutions, enhancing accessibility and scalability while reducing infrastructure costs.
+
+- **Managed and digitized spatial datasets, resolving 80% topological errors → 50% shorter data retrieval times through improved indexing and query optimization.
+
+### **GIS Intern** | *Dept. of Cooperative Governance*  
+- **Developed 30+ Municipal Property Rates Shapefiles, optimizing spatial queries for efficient property valuation across 12 municipalities.
+
+- **Updated 42 GIS mapping shapefiles using spatial analysis → Improved data accuracy and query performance for reporting.
+
 ---
 
 ## **📚 Publications & Research**  
