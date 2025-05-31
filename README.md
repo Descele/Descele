@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Your Portfolio
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 ---
-![Your Name](/assets/img/DC_headshot.jpg)
+![Desiree Cele](/assets/img/DC_headshot.jpg)
 
 ----
 
