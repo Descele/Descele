@@ -125,16 +125,16 @@ Python programmer with Urban Planning background specializing in data-driven pol
 ---
 ## ** Work Experience**  
 ### **GIS Technician** | *Umkhanyakude District Municipality*   
-- **Optimized spatial query performance by restructuring the first-gen GIS database, unifying 5 local authority datasets → 30% faster planning decisions and streamlined analytics.
+- Optimized spatial query performance by restructuring the first-gen GIS database, unifying 5 local authority datasets → 30% faster planning decisions and streamlined analytics.
 
-- **Migrated on-prem GIS databases to cloud-based solutions, enhancing accessibility and scalability while reducing infrastructure costs.
+- Migrated on-prem GIS databases to cloud-based solutions, enhancing accessibility and scalability while reducing infrastructure costs.
 
-- **Managed and digitized spatial datasets, resolving 80% topological errors → 50% shorter data retrieval times through improved indexing and query optimization.
+- Managed and digitized spatial datasets, resolving 80% topological errors → 50% shorter data retrieval times through improved indexing and query optimization.
 
 ### **GIS Intern** | *Dept. of Cooperative Governance*  
-- **Developed 30+ Municipal Property Rates Shapefiles, optimizing spatial queries for efficient property valuation across 12 municipalities.
+- Developed 30+ Municipal Property Rates Shapefiles, optimizing spatial queries for efficient property valuation across 12 municipalities.
 
-- **Updated 42 GIS mapping shapefiles using spatial analysis → Improved data accuracy and query performance for reporting.
+- Updated 42 GIS mapping shapefiles using spatial analysis → Improved data accuracy and query performance for reporting.
 
 ---
 
