@@ -1,4 +1,37 @@
+---
+layout: default
+title: Portfolio
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+---
 
+<style>
+  .profile-circle {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+  }
+  .center-text {
+    text-align: center;
+    margin: 1rem auto 2rem;
+  }
+  .name-header {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+</style>
+
+![Desiree Cele](/assets/img/DC_headshot.jpg){: .profile-circle }
+
+<div class="center-text">
+  <div class="name-header">Desiree Cele</div>
+  <div>*Planning Information Systems*</div>
+  <div>Python programmer with Urban Planning background specializing in data-driven policy solutions.</div>
+</div>
 ----
 Desiree is a python programmer bridging urban planning and data science for policy solutions.
 
