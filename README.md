@@ -1,6 +1,39 @@
+---
+layout: default
+title: Portfolio
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+<style>
+  .profile-circle {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
 
+![Desiree Cele](/assets/Images/DC_headshot.jpg){: .profile-circle }
+---
 ## *Planning Information Systems*  
 Python programmer with Urban Planning background specializing in data-driven policy solutions.  
+
+## 🎓 Education
+
+**Ph.D. in Urban Planning (In Progress)**  
+*University at Buffalo*  
+
+**Master of Town & Regional Planning (MTRP)**  
+*University of KwaZulu-Natal*  
+
+**Bachelor of Technology in Urban Planning**  
+*Durban University of Technology*  
+
+**Professional Certifications**  
+- *Code in Place (Programming)* | Stanford University  
+- *Designing with AI (EdTech)*  | University of Cape Town  
 
 ---
 
@@ -57,8 +90,7 @@ Python programmer with Urban Planning background specializing in data-driven pol
 ---
 
 ### **4. [Rainbow Geometry Generator](https://github.com/Descele/CIP5_Project4)**  
-[![GUI](https://img.shields.io/badge/GUI-Canvas-blue)](https://en.wikipedia.org/wiki/Graphical_user_interface) 
-[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/Descele/CIP5_Project4/blob/main/LICENSE)  
+[![GUI](https://img.shields.io/badge/GUI-Canvas-blue)](https://en.wikipedia.org/wiki/Graphical_user_interface)  
 **Generative geometric art**  
 📌 *Tags: `python-graphics` `generative-art` `creative-coding`*  
 
@@ -68,18 +100,6 @@ Python programmer with Urban Planning background specializing in data-driven pol
 🔗 [Repository](https://github.com/Descele/CIP5_Project4) |
 
 ---
-
-## 🎓 Education & Credentials 
-| Degree/Certification          | Institution                          |  
-|-------------------------------|--------------------------------------|  
-| Ph.D. (In Progress)           | University at Buffalo                |  
-| MTRP, Urban Planning          | University of KwaZulu-Natal          |  
-| BT, Urban Planning            | Durban University of Technology      |  
-| **Code in Place**(Programming)| Stanford University                  |  
-| **Designing with AI**(EdTech) | University of Cape Town              |  
-
----
-
 ## Code in Place Certification  
 *Stanford CS106A Methodology | 2025*  
 
@@ -88,9 +108,8 @@ Python programmer with Urban Planning background specializing in data-driven pol
 | 1 | **Karel Foundations** | [![Algorithms](https://img.shields.io/badge/-Algorithms-brightgreen)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) [![Loops](https://img.shields.io/badge/-For/While_Loops-blue)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4.html) [![Conditionals](https://img.shields.io/badge/-If_Statements-orange)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter3.html) |  
 | 2 | **Stepwise Refinement** | [![Decomposition](https://img.shields.io/badge/-Problem_Decomposition-9cf)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter7.html) [![Debugging](https://img.shields.io/badge/-Debugging-purple)](https://compedu.stanford.edu/codeinplace/faq#debugging) |  
 | 3 | **Python Essentials** | [![I/O](https://img.shields.io/badge/-Input/Output-yellow)](https://docs.python.org/3/tutorial/inputoutput.html) [![Math](https://img.shields.io/badge/-Arithmetic-blue)](https://docs.python.org/3/tutorial/introduction.html#numbers) [![Random](https://img.shields.io/badge/-Random_Lib-success)](https://docs.python.org/3/library/random.html) |  
-| 4 | **Creative Graphics** | [![GUI](https://img.shields.io/badge/-Canvas_Graphics-ff69b4)](https://cs.stanford.edu/people/nick/graphics-py/) [![Functions](https://img.shields.io/badge/-Modular_Code-important)](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) |  | 5 | **Data Structures** | [![Lists](https://img.shields.io/badge/-Lists-2d3e50)](https://docs.python.org/3/tutorial/datastructures.html) [![Dictionaries](https://img.shields.io/badge/-Dicts-8a2be2)](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) [![Search](https://img.shields.io/badge/-Search_Algos-brightgreen)](https://compedu.stanford.edu/codeinplace/faq#searching) |  
-| 5 | **Data Structures** | [![Lists](https://img.shields.io/badge/-Lists-2d3e50)](https://docs.python.org/3/tutorial/datastructures.html) [![Dictionaries](https://img.shields.io/badge/-Dicts-8a2be2)](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) [![Search](https://img.shields.io/badge/-Search_Algos-brightgreen)](https://compedu.stanford.edu/codeinplace/faq#searching) |  
-
+| 4 | **Creative Graphics** | [![GUI](https://img.shields.io/badge/-Canvas_Graphics-ff69b4)](https://cs.stanford.edu/people/nick/graphics-py/) [![Functions](https://img.shields.io/badge/-Modular_Code-important)](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) |   
+| 5 | **Data Structures** | [![Lists](https://img.shields.io/badge/-Lists-2d3e50)](https://docs.python.org/3/tutorial/datastructures.html) [![Dictionaries](https://img.shields.io/badge/-Dicts-8a2be2)](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) [![Search](https://img.shields.io/badge/-Search_Algorithms-brightgreen)](https://compedu.stanford.edu/codeinplace/faq#searching) | 
 ---
 
 ## Designing with AI Certification  
@@ -104,7 +123,20 @@ Python programmer with Urban Planning background specializing in data-driven pol
 | 3 | **AI for Education** | [![Lesson Planning](https://img.shields.io/badge/-AI_Lesson_Design-20B2AA)](https://cilt.uct.ac.za/Designing_with_AI#week3) [![Research Validation](https://img.shields.io/badge/-Consensus_Tool-9370DB)](https://cilt.uct.ac.za/Designing_with_AI#week3) [![Brainstorming](https://img.shields.io/badge/-Ideamap-32CD32)](https://cilt.uct.ac.za/Designing_with_AI#week3) |  
 | 4 | **Learning Design** | [![Course Creation](https://img.shields.io/badge/-Turboscribe-FF6347)](https://cilt.uct.ac.za/Designing_with_AI#week4) [![Micro-Courses](https://img.shields.io/badge/-Micro_Design-FFD700)](https://cilt.uct.ac.za/Designing_with_AI#week4) [![Interdisciplinary AI](https://img.shields.io/badge/-Cross_Disciplinary-4B0082)](https://cilt.uct.ac.za/Designing_with_AI#week4) |  
 | 5 | **AI Ethics** | [![Bias Mitigation](https://img.shields.io/badge/-Bias_Detection-FF4500)](https://cilt.uct.ac.za/Designing_with_AI#week5) [![Philosophical Frameworks](https://img.shields.io/badge/-AI_Mediation-9932CC)](https://cilt.uct.ac.za/Designing_with_AI#week5) [![Open Education](https://img.shields.io/badge/-Accessibility-228B22)](https://cilt.uct.ac.za/Designing_with_AI#week5) |  
- 
+---
+## ** Work Experience**  
+### **GIS Technician** | *Umkhanyakude District Municipality*   
+- **Optimized spatial query performance by restructuring the first-gen GIS database, unifying 5 local authority datasets → 30% faster planning decisions and streamlined analytics.
+
+- **Migrated on-prem GIS databases to cloud-based solutions, enhancing accessibility and scalability while reducing infrastructure costs.
+
+- **Managed and digitized spatial datasets, resolving 80% topological errors → 50% shorter data retrieval times through improved indexing and query optimization.
+
+### **GIS Intern** | *Dept. of Cooperative Governance*  
+- **Developed 30+ Municipal Property Rates Shapefiles, optimizing spatial queries for efficient property valuation across 12 municipalities.
+
+- **Updated 42 GIS mapping shapefiles using spatial analysis → Improved data accuracy and query performance for reporting.
+
 ---
 
 ## **📚 Publications & Research**  
