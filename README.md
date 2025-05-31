@@ -48,8 +48,7 @@ Desiree is a python programmer bridging urban planning and data science for poli
 🔗 [Repository](https://github.com/Descele/CIP5_Project1) | [Dataset](https://www.census.gov/programs-surveys/acs) | [![1m Demo](https://img.shields.io/badge/▶_1:04_Demo-2d3e50?style=for-the-badge&logoColor=white)](https://www.loom.com/share/5df07986504e4ccaa9a161e0bd5bb3fb)
 
 ### **2. [Housing Policy Simulator](https://github.com/Descele/CIP5-Project2)**  
-[![CLI](https://img.shields.io/badge/CLI-Game-yellowgreen)](https://en.wikipedia.org/wiki/Command-line_interface) 
-[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/Descele/CIP5-Project2/blob/main/LICENSE)  
+[![CLI](https://img.shields.io/badge/CLI-Game-yellowgreen)](https://en.wikipedia.org/wiki/Command-line_interface)  
 **Interactive mayor decision game**  
 📌 *Tags: `policy-modeling` `urban-simulation` `python`*  
 
