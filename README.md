@@ -15,7 +15,7 @@ plugins:
   }
 </style>
 
-![Desiree Cele](/assets/Images/DC_headshot.jpg){: .profile-circle }
+logo: ![Desiree Cele](/assets/Images/DC_headshot.jpg){: .profile-circle }
 ---
 ## *Planning Information Systems*  
 Python programmer with Urban Planning background specializing in data-driven policy solutions.  
@@ -64,8 +64,7 @@ Python programmer with Urban Planning background specializing in data-driven pol
 ---
 
 ### **2. [Housing Policy Simulator](https://github.com/Descele/CIP5-Project2)**  
-[![CLI](https://img.shields.io/badge/CLI-Game-yellowgreen)](https://en.wikipedia.org/wiki/Command-line_interface) 
-[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/Descele/CIP5-Project2/blob/main/LICENSE)  
+[![CLI](https://img.shields.io/badge/CLI-Game-yellowgreen)](https://en.wikipedia.org/wiki/Command-line_interface)   
 **Interactive mayor decision game**  
 📌 *Tags: `policy-modeling` `urban-simulation` `python`*  
 
