@@ -1,7 +1,7 @@
 title: Desiree Cele
-description: "Urban Data Analyst | GIS Database Admin."
-logo: "https://github.com/Descele/Desiree_Cele/tree/d82100f5437f743d93719d96c0387ab0487dbcba/assets/Images/DC_headshot.jpg"
-linkedin: "https://www.linkedin.com/in/desiree-cele-783a7026"
+description: Urban Data Analyst | GIS Database Admin.
+logo: /assets/Images/DC_headshot.jpg
+linkedin: https://www.linkedin.com/in/desiree-cele-783a7026
 show_downloads: false
 theme: jekyll-theme-minimal
 plugins:
