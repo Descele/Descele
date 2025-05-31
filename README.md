@@ -30,7 +30,7 @@ plugins:
 <div class="center-text">
   <div class="name-header">Desiree Cele</div>
 ----
-</div>
+
 Desiree is a python programmer bridging urban planning and data science for policy solutions.
 
 ## 🎓 Education
@@ -46,7 +46,7 @@ Desiree is a python programmer bridging urban planning and data science for poli
 
 **Professional Certifications**  
 - *Code in Place (Programming)* | Stanford University  
-- *Designing with AI (EdTech)*  | University of Cape Town  
+- *Designing with AI (EdTech)*  | University of Cape Town |[![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
 
 ---
 
