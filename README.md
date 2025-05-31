@@ -1,6 +1,5 @@
 
 ----
-## *Planning Information Systems*  
 Desiree is a python programmer bridging urban planning and data science for policy solutions.
 
 ## 🎓 Education
