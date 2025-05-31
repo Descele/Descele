@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Portfolio
+title: Your Portfolio
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 ---
 
 <style>
@@ -15,20 +15,23 @@ plugins:
     display: block;
     margin: 0 auto;
   }
-  .center-text {
-    text-align: center;
-    margin: 1rem auto 2rem;
-  }
-  .name-header {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
+  .skills-table {
+    width: 100%;
+    margin: 20px 0;
   }
 </style>
 
-![Desiree Cele](/assets/img/DC_headshot.jpg){: .profile-circle }
+![Your Name](/assets/img/DC_headshot.jpg){: .profile-circle }
 
-<div class="center-text">
-  <div class="name-header">Desiree Cele</div>
+## 🛠️ Technical Toolkit
+
+| Domain         | Core Technologies | Specialized Tools |
+|----------------|-------------------|-------------------|
+| **Programming** | [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&style=flat-square)](https://python.org) | [![OpenAI](https://img.shields.io/badge/OpenAI-GPT_4-412991?logo=openai&style=flat-square)](https://openai.com) |
+| **Geo-Spatial** | [![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-2C2D2E?logo=esri&style=flat-square)](https://esri.com) | [![GeoPandas](https://img.shields.io/badge/GeoPandas-0.12+-E5A50C?style=flat-square)](https://geopandas.org) |
+| **Data Science** | [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&style=flat-square)](https://pandas.pydata.org) | [![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy&style=flat-square)](https://scipy.org) |
+
+[Rest of your portfolio content...]
 ----
 </div>
 Desiree is a python programmer bridging urban planning and data science for policy solutions.
