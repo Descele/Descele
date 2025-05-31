@@ -29,10 +29,8 @@ plugins:
 
 <div class="center-text">
   <div class="name-header">Desiree Cele</div>
-  <div>*Planning Information Systems*</div>
-  <div>Python programmer with Urban Planning background specializing in data-driven policy solutions.</div>
-</div>
 ----
+</div>
 Desiree is a python programmer bridging urban planning and data science for policy solutions.
 
 ## 🎓 Education
