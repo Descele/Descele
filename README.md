@@ -50,16 +50,14 @@ Desiree is a python programmer bridging urban planning and data science for poli
 
 ---
 
+
 ## 🛠️ Technical Toolkit
 
-<div class="skills-table">
-
-| **Domain**       | **Core Technologies**                                                                 | **Specialized Tools**                                                         |
-|------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| **Programming**  | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)              | ![OpenAI](https://img.shields.io/badge/OpenAI-GPT_4-412991?logo=openai)     |
-| **Geo-Spatial**  | ![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-2C2D2E?logo=esri)                  | ![GeoPandas](https://img.shields.io/badge/GeoPandas-0.12+-E5A50C)           |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas)               | ![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy)        |
-
+| Domain         | Core Technologies | Specialized Tools |
+|----------------|-------------------|-------------------|
+| **Programming** | [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&style=flat-square)](https://www.python.org/) | [![OpenAI](https://img.shields.io/badge/OpenAI-GPT_4-412991?logo=openai&style=flat-square)](https://openai.com) |
+| **Geo-Spatial** | [![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-2C2D2E?logo=esri&style=flat-square)](https://www.esri.com) | [![GeoPandas](https://img.shields.io/badge/GeoPandas-0.12+-E5A50C?style=flat-square)](https://geopandas.org) |
+| **Data Science** | [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&style=flat-square)](https://pandas.pydata.org) | [![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy&style=flat-square)](https://scipy.org) |
 </div>
 
 ---
