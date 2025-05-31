@@ -1,10 +1,8 @@
-# **Desiree Cele**  
-### Urban Data Analyst | GIS Database Admin. 
 
 ## *Planning Information Systems*  
 Python programmer with Urban Planning background specializing in data-driven policy solutions.  
 
-• [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/desiree-cele-783a7026/)  
+
 ---
 
 ## **🛠️ My Technical Toolkit**  
