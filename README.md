@@ -108,7 +108,7 @@ Python programmer with Urban Planning background specializing in data-driven pol
 ---
 
 ## **📚 Publications & Research**  
-• **Cele, D.** (2016). *Towards achieving diversity through collaborative planning...*  
+• **Cele, D.** (2016). *Towards achieving diversity through collaborative planning in mixed use precincts...*  
 [![DOI](https://img.shields.io/badge/DOI-10.1234/abcd-blue)](https://www.researchgate.net/publication/315951040)
 
 ---
