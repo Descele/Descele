@@ -85,8 +85,10 @@ Python programmer with Urban Planning background specializing in data-driven pol
 
 | Week | Focus Area | Skills Badges |  
 |------|------------|---------------|  
-| 1 | **Karel Foundations** | [![Algorithms](https://img.shields.io/badge/-Algorithms-brightgreen)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) [![Loops](https://img.shields.io/badge/-For/While_Loops-blue)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4.html) |  
-| 2 | **Stepwise Refinement** | [![Decomposition](https://img.shields.io/badge/-Problem_Decomposition-9cf)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter7.html) |  
+| 1 | **Karel Foundations** | [![Algorithms](https://img.shields.io/badge/-Algorithms-brightgreen)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) [![Loops](https://img.shields.io/badge/-For/While_Loops-blue)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4.html) [![Conditionals](https://img.shields.io/badge/-If_Statements-orange)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter3.html) |  
+| 2 | **Stepwise Refinement** | [![Decomposition](https://img.shields.io/badge/-Problem_Decomposition-9cf)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter7.html) [![Debugging](https://img.shields.io/badge/-Debugging-purple)](https://compedu.stanford.edu/codeinplace/faq#debugging) |  
+| 3 | **Python Essentials** | [![I/O](https://img.shields.io/badge/-Input/Output-yellow)](https://docs.python.org/3/tutorial/inputoutput.html) [![Math](https://img.shields.io/badge/-Arithmetic-blue)](https://docs.python.org/3/tutorial/introduction.html#numbers) [![Random](https://img.shields.io/badge/-Random_Lib-success)](https://docs.python.org/3/library/random.html) |  
+| 4 | **Creative Graphics** | [![GUI](https://img.shields.io/badge/-Canvas_Graphics-ff69b4)](https://cs.stanford.edu/people/nick/graphics-py/) [![Functions](https://img.shields.io/badge/-Modular_Code-important)](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) |  | 5 | **Data Structures** | [![Lists](https://img.shields.io/badge/-Lists-2d3e50)](https://docs.python.org/3/tutorial/datastructures.html) [![Dictionaries](https://img.shields.io/badge/-Dicts-8a2be2)](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) [![Search](https://img.shields.io/badge/-Search_Algos-brightgreen)](https://compedu.stanford.edu/codeinplace/faq#searching) |  
 
 ---
 
@@ -96,8 +98,12 @@ Python programmer with Urban Planning background specializing in data-driven pol
 
 | Week | Focus Area | Skills Badges |  
 |------|------------|---------------|  
-| 1 | **AI Foundations** | [![Generative AI](https://img.shields.io/badge/-Generative_AI-8A2BE2)](https://cilt.uct.ac.za/Designing_with_AI#week1) |  
-
+| 1 | **AI Foundations** | [![Generative AI](https://img.shields.io/badge/-Generative_AI-8A2BE2)](https://cilt.uct.ac.za/Designing_with_AI#week1) [![Tool Proficiency](https://img.shields.io/badge/-OpenArt/Copilot-FF69B4)](https://cilt.uct.ac.za/Designing_with_AI#week1) [![Prompt Basics](https://img.shields.io/badge/-Prompt_Design-9CF)](https://cilt.uct.ac.za/Designing_with_AI#week1) |  
+| 2 | **Prompt Engineering** | [![Precision Prompting](https://img.shields.io/badge/-Precision_Prompts-2D3E50)](https://cilt.uct.ac.za/Designing_with_AI#week2) [![Contextual Design](https://img.shields.io/badge/-Context_Design-008080)](https://cilt.uct.ac.za/Designing_with_AI#week2) [![Video Generation](https://img.shields.io/badge/-Invideo_Tool-4682B4)](https://cilt.uct.ac.za/Designing_with_AI#week2) [![LLMs](https://img.shields.io/badge/-LLM_Integration-000080)](https://cilt.uct.ac.za/Designing_with_AI#week2) |  
+| 3 | **AI for Education** | [![Lesson Planning](https://img.shields.io/badge/-AI_Lesson_Design-20B2AA)](https://cilt.uct.ac.za/Designing_with_AI#week3) [![Research Validation](https://img.shields.io/badge/-Consensus_Tool-9370DB)](https://cilt.uct.ac.za/Designing_with_AI#week3) [![Brainstorming](https://img.shields.io/badge/-Ideamap-32CD32)](https://cilt.uct.ac.za/Designing_with_AI#week3) |  
+| 4 | **Learning Design** | [![Course Creation](https://img.shields.io/badge/-Turboscribe-FF6347)](https://cilt.uct.ac.za/Designing_with_AI#week4) [![Micro-Courses](https://img.shields.io/badge/-Micro_Design-FFD700)](https://cilt.uct.ac.za/Designing_with_AI#week4) [![Interdisciplinary AI](https://img.shields.io/badge/-Cross_Disciplinary-4B0082)](https://cilt.uct.ac.za/Designing_with_AI#week4) |  
+| 5 | **AI Ethics** | [![Bias Mitigation](https://img.shields.io/badge/-Bias_Detection-FF4500)](https://cilt.uct.ac.za/Designing_with_AI#week5) [![Philosophical Frameworks](https://img.shields.io/badge/-AI_Mediation-9932CC)](https://cilt.uct.ac.za/Designing_with_AI#week5) [![Open Education](https://img.shields.io/badge/-Accessibility-228B22)](https://cilt.uct.ac.za/Designing_with_AI#week5) |  
+ 
 ---
 
 ## **📚 Publications & Research**  
