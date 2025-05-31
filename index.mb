@@ -46,18 +46,16 @@ Desiree is a python programmer bridging urban planning and data science for poli
 
 **Professional Certifications**  
 - *Code in Place (Programming)* | Stanford University  
-- *Designing with AI (EdTech)*  | University of Cape Town  
+- *Designing with AI (EdTech)*  | University of Cape Town | [![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
+
 ---
+## 🛠️ Technical Toolkit
 
-## **🛠️ My Technical Toolkit**  
-
-| Category              | Core Skills                                                                                     | Specialized Libraries                                                                           |
-|-----------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| **Programming**       | [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)](https://www.python.org/) [![Random](https://img.shields.io/badge/Random-StdLib-999999)](https://docs.python.org/3/library/random.html) | [![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT_4-412991?logo=openai)](https://platform.openai.com/docs) |
-| **Data Analysis**     | [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas)](https://pandas.pydata.org/) [![CSV](https://img.shields.io/badge/CSV-StdLib-239120)](https://docs.python.org/3/library/csv.html) | [![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy)](https://numpy.org/) [![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy)](https://scipy.org/) |
-| **Visualization**     | [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?logo=matplotlib)](https://matplotlib.org/) | [![Folium](https://img.shields.io/badge/Folium-0.14+-77B829?logo=leaflet)](https://python-visualization.github.io/folium/) |
-| **Geospatial**        | [![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-2C2D2E?logo=esri)](https://www.esri.com/) | [![QGIS](https://img.shields.io/badge/QGIS-3.28+-589632?logo=qgis)](https://qgis.org/) [![GeoPandas](https://img.shields.io/badge/GeoPandas-0.12+-E5A50C)](https://geopandas.org/) | 
-
+| Domain         | Core Technologies | Specialized Tools |
+|----------------|-------------------|-------------------|
+| **Programming** | [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&style=flat-square)](https://www.python.org/) | [![OpenAI](https://img.shields.io/badge/OpenAI-GPT_4-412991?logo=openai&style=flat-square)](https://openai.com) |
+| **Geo-Spatial** | [![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-2C2D2E?logo=esri&style=flat-square)](https://www.esri.com) | [![GeoPandas](https://img.shields.io/badge/GeoPandas-0.12+-E5A50C?style=flat-square)](https://geopandas.org) |
+| **Data Science** | [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&style=flat-square)](https://pandas.pydata.org) | [![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy&style=flat-square)](https://scipy.org) |
 ---
 
 ## **🚀 Featured Projects**  
