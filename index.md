@@ -19,7 +19,7 @@ Desiree is a python programmer bridging urban planning and data science for poli
 
 **Professional Certifications**  
 - *Code in Place (Programming)* | Stanford University  
-- *Designing with AI (EdTech)*  | University of Cape Town | [![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
+- *Designing with AI (EdTech)*  | [![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
 
 ---
 ## 🛠️ Technical Toolkit
@@ -47,7 +47,6 @@ Desiree is a python programmer bridging urban planning and data science for poli
 
 ### **2. [Housing Policy Simulator](https://github.com/Descele/CIP5-Project2)**  
 [![CLI](https://img.shields.io/badge/CLI-Game-yellowgreen)](https://en.wikipedia.org/wiki/Command-line_interface) 
-[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/Descele/CIP5-Project2/blob/main/LICENSE)  
 **Interactive mayor decision game**  
 📌 *Tags: `policy-modeling` `urban-simulation` `python`*  
 
