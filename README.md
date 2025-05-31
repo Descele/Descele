@@ -5,7 +5,7 @@ plugins:
   - jekyll-remote-theme
 ---
 ![Desiree Cele](/assets/img/DC_headshot.jpg)
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Descele)
 ----
 
 Desiree is a python programmer bridging urban planning and data science for policy solutions.
