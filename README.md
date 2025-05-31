@@ -1,21 +1,4 @@
----
-layout: default
-title: Portfolio
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-<style>
-  .profile-circle {
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto;
-  }
-</style>
 
-logo: ![Desiree Cele](/assets/img/DC_headshot.jpg){: .profile-circle }
 ---
 ## *Planning Information Systems*  
 Python programmer with Urban Planning background specializing in data-driven policy solutions.  
