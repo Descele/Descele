@@ -94,12 +94,11 @@ Desiree is a python programmer bridging urban planning and data science for poli
 - Automated cadastral updates for 42 districts  
 
 ---
+## **📚 Publications & Research**  
+• **Cele, D.** (2016). *Towards achieving diversity through collaborative planning in mixed use precincts...*  
+[![DOI](https://img.shields.io/badge/DOI-10.1234/abcd-blue)](https://www.researchgate.net/publication/315951040)
 
-## 📚 Publications  
-**Cele, D.** (2016). *Towards achieving diversity through collaborative planning...*  
-[![DOI](https://img.shields.io/badge/DOI-10.1234%2Fabcd-blue)](https://doi.org/...)  
 ---
-
 
 ## 🌐 Let's Collaborate!  
 📫 Reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/desiree-cele-783a7026/)
