@@ -1,17 +1,11 @@
----
-layout: default
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
----
-Desiree is a python programmer bridging urban planning and data science for policy solutions.
+<p align="center">
+  <img src="banner/banner.png" alt="Banner" />
+</p>
 
-## 🎓 Education
-
-**Ph.D. in Urban Planning (In Progress)**  
+**Ph.D. in Urban Planning (In progress)**  
 *University at Buffalo*  
 
-**Master of Town & Regional Planning (MTRP)**  
+**Master of Town & Regional Planning**  
 *University of KwaZulu-Natal*  
 
 **Bachelor of Technology in Urban Planning**  
@@ -22,7 +16,8 @@ Desiree is a python programmer bridging urban planning and data science for poli
 - *Designing with AI (EdTech)*  | [![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
 
 ---
-## 🛠️ Technical Toolkit
+
+## Technical Toolkit
 
 | Domain         | Core Technologies | Specialized Tools |
 |----------------|-------------------|-------------------|
@@ -32,7 +27,7 @@ Desiree is a python programmer bridging urban planning and data science for poli
 
 ---
 
-## **🚀 Featured Projects**  
+##  Featured Projects  
 
 ### **1. [Housing Data Explorer](https://github.com/Descele/CIP5-Project1)**  
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/) 
@@ -46,8 +41,7 @@ Desiree is a python programmer bridging urban planning and data science for poli
 🔗 [Repository](https://github.com/Descele/CIP5_Project1) | [Dataset](https://www.census.gov/programs-surveys/acs) | [![1m Demo](https://img.shields.io/badge/▶_1:04_Demo-2d3e50?style=for-the-badge&logoColor=white)](https://www.loom.com/share/5df07986504e4ccaa9a161e0bd5bb3fb)
 
 ### **2. [Housing Policy Simulator](https://github.com/Descele/CIP5-Project2)**  
-[![CLI](https://img.shields.io/badge/CLI-Game-yellowgreen)](https://en.wikipedia.org/wiki/Command-line_interface) 
-
+[![CLI](https://img.shields.io/badge/CLI-Game-yellowgreen)](https://en.wikipedia.org/wiki/Command-line_interface)  
 **Interactive mayor decision game**  
 📌 *Tags: `policy-modeling` `urban-simulation` `python`*  
 
@@ -77,14 +71,53 @@ Desiree is a python programmer bridging urban planning and data science for poli
 **Innovation: Transforms basic shapes into striking patterns using only graphics.py.**  
 🔗 [Repository](https://github.com/Descele/CIP5_Project4) |
 
----
 
-## **📚 Publications & Research**  
+---
+## Professional Experience
+
+**GIS Technician** | *Umkhanyakude District Municipality*  
+- Optimized spatial queries, reducing planning decision time by 30%  
+- Migrated 12TB geospatial data to cloud infrastructure  
+- Resolved 80% of topological errors in municipal datasets  
+
+**GIS Intern** | *Dept. of Cooperative Governance*  
+- Developed 30+ municipal property valuation maps  
+- Automated cadastral updates for 42 districts  
+
+---
+## 📚 Publications & Research**  
 • **Cele, D.** (2016). *Towards achieving diversity through collaborative planning in mixed use precincts...*  
 [![DOI](https://img.shields.io/badge/DOI-10.1234/abcd-blue)](https://www.researchgate.net/publication/315951040)
 
 ---
+<!--Contribution Graph-->
+<h2 align="left">📈Contribution Graph </h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Descele&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+---
+<!--Collaboration-->
+<h2 align="left">🌐 Let's Collaborate! </h2>
 
-## 🌐 Let's Collaborate!  
 📫 Reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/desiree-cele-783a7026/)
+---
+<!-- Languages and Tools Section -->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Animated showcase of my skills" src="./Skills_Animation_White.gif" style="max-width: 100%; height: auto;">
+  </picture>
+</p>
 
+###  Current Learning
+
+<ul>
+  <li>Deepening my knowledge in <strong>Machine Learning</strong> and <strong>AI</strong>.</li>
+</ul>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Descele" alt="Profile view counter on GitHub">
+</p>
