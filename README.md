@@ -71,10 +71,8 @@
 **Innovation: Transforms basic shapes into striking patterns using only graphics.py.**  
 🔗 [Repository](https://github.com/Descele/CIP5_Project4) |
 
-</div>
 
 ---
-
 ## Professional Experience
 
 **GIS Technician** | *Umkhanyakude District Municipality*  
@@ -93,11 +91,12 @@
 
 ---
 <!--Contribution Graph-->
-<h2 align="left">Contribution Graph 📈</h2>
+<h2 align="left">📈Contribution Graph </h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Descele&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
-
-## 🌐 Let's Collaborate!  
+---
+<!--Collaboration-->
+<h2 align="left">## 🌐 Let's Collaborate! </h2>
 📫 Reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/desiree-cele-783a7026/)
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Descele) 
