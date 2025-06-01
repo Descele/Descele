@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner/banner.png" alt="Banner" />  
+  <img src="https://raw.githubusercontent.com/Descele/Descele/main/banner/banner.png" alt="Banner" />
 </p>
 
 **Ph.D. in Urban Planning (In progress)**  
