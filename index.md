@@ -109,13 +109,13 @@
 <ul>
   <li>Deepening my knowledge in <strong>Machine Learning</strong> and <strong>AI</strong>.</li>
 </ul>
----
+
 <!--Contribution Graph-->
 <h2 align="left">📈Contribution Graph </h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Descele&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
----
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Descele" alt="Profile view counter on GitHub">
