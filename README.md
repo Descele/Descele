@@ -1,4 +1,5 @@
-
+<!--Banner-->
+![Banner Image](./banner.png)
 ## 🎓 Education
 
 **Ph.D. in Urban Planning (In Progress)**  
