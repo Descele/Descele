@@ -4,11 +4,9 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 ---
-![Desiree Cele](/assets/img/DC_headshot.jpg)
+<h2 align="center">![Desiree Cele] </h2> 
+(/assets/img/DC_headshot.jpg)
 ----
-
-I am a python programmer, my aim is to bridge urban planning and data science for policy solutions.
-I'm committed to learning more tools, engaging in Planning Information Systems.
 
 ## 🎓 Education
 
@@ -23,17 +21,27 @@ I'm committed to learning more tools, engaging in Planning Information Systems.
 
 **Professional Certifications**  
 - *Code in Place (Programming)* | Stanford University  
-- *Designing with AI (EdTech)*  | University of Cape Town |[![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
+- *Designing with AI (EdTech)*  | [![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-| Domain         | Core Technologies | Specialized Tools |
-|----------------|-------------------|-------------------|
-| **Programming** | [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&style=flat-square)](https://www.python.org/) | [![OpenAI](https://img.shields.io/badge/OpenAI-GPT_4-412991?logo=openai&style=flat-square)](https://openai.com) |
-| **Geo-Spatial** | [![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-2C2D2E?logo=esri&style=flat-square)](https://www.esri.com) | [![GeoPandas](https://img.shields.io/badge/GeoPandas-0.12+-E5A50C?style=flat-square)](https://geopandas.org) |
-| **Data Science** | [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&style=flat-square)](https://pandas.pydata.org) | [![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy&style=flat-square)](https://scipy.org) |
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ </h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
 </div>
 
 ---
