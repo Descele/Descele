@@ -112,6 +112,9 @@
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
 </ul>
+---
+
+
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Descele)
 
