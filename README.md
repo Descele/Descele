@@ -28,7 +28,7 @@
 
 ---
 
-## ** Featured Projects**  
+##  Featured Projects  
 
 ### **1. [Housing Data Explorer](https://github.com/Descele/CIP5-Project1)**  
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/) 
@@ -88,7 +88,7 @@
 - Automated cadastral updates for 42 districts  
 
 ---
-## **📚 Publications & Research**  
+## 📚 Publications & Research**  
 • **Cele, D.** (2016). *Towards achieving diversity through collaborative planning in mixed use precincts...*  
 [![DOI](https://img.shields.io/badge/DOI-10.1234/abcd-blue)](https://www.researchgate.net/publication/315951040)
 
