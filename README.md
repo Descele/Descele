@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner/banner.png" alt="Banner" />
 </p>
- Education
 
 **Ph.D. in Urban Planning (In Progress)**  
 *University at Buffalo*  
