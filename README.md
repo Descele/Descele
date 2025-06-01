@@ -90,34 +90,32 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1234/abcd-blue)](https://www.researchgate.net/publication/315951040)
 
 ---
-<!--Contribution Graph-->
-<h2 align="left">📈Contribution Graph </h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Descele&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
----
 <!--Collaboration-->
 <h2 align="left">🌐 Let's Collaborate! </h2>
 
 📫 Reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/desiree-cele-783a7026/)
 ---
 <!-- Languages and Tools Section -->
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Animated showcase of my skills" src="./Skills_Animation_White.gif" style="max-width: 100%; height: auto;">
-  </picture>
-</p>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+        <img alt="Animated showcase of my skills" src="./Skills_Animation_White.gif" style="max-width: 100%; height: auto;">
+      </picture>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Current Learning</h3>
+      <ul>
+        <li>Deepening my knowledge in <strong>Machine Learning</strong> and <strong>AI</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-###  Current Learning
-
-<ul>
-  <li>Deepening my knowledge in <strong>Machine Learning</strong> and <strong>AI</strong>.</li>
-</ul>
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Descele" alt="Profile view counter on GitHub">
-</p>
+<!--Contribution Graph-->
+<h2 align="left">📈Contribution Graph </h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Descele&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
