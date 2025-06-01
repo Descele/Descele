@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner/banner.png" alt="Banner" />
 </p>
-## 🎓 Education
+ Education
 
 **Ph.D. in Urban Planning (In Progress)**  
 *University at Buffalo*  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 | Domain         | Core Technologies | Specialized Tools |
 |----------------|-------------------|-------------------|
@@ -28,7 +28,7 @@
 
 ---
 
-## **🚀 Featured Projects**  
+## ** Featured Projects**  
 
 ### **1. [Housing Data Explorer](https://github.com/Descele/CIP5-Project1)**  
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/) 
@@ -76,7 +76,7 @@
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **GIS Technician** | *Umkhanyakude District Municipality*  
 - Optimized spatial queries, reducing planning decision time by 30%  
