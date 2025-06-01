@@ -2,10 +2,10 @@
   <img src="banner/banner.png" alt="Banner" />
 </p>
 
-**Ph.D. in Urban Planning (In Progress)**  
+**Ph.D. in Urban Planning (In progress)**  
 *University at Buffalo*  
 
-**Master of Town & Regional Planning (MTRP)**  
+**Master of Town & Regional Planning**  
 *University of KwaZulu-Natal*  
 
 **Bachelor of Technology in Urban Planning**  
