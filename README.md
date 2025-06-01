@@ -4,7 +4,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 ---
-<h2 align="center">![Desiree Cele] </h2> 
+[Desiree Cele] 
 (/assets/img/DC_headshot.jpg)
 ----
 
@@ -44,10 +44,6 @@ plugins:
 </div>
 
 ---
-
-
-
-
 
 ## **🚀 Featured Projects**  
 
