@@ -7,7 +7,8 @@ plugins:
 ![Desiree Cele](/assets/img/DC_headshot.jpg)
 ----
 
-Desiree is a python programmer bridging urban planning and data science for policy solutions.
+I am a python programmer, my aim is to bridge urban planning and data science for policy solutions.
+I'm committed to learning more tools, engaging in Planning Information Systems.
 
 ## 🎓 Education
 
@@ -25,7 +26,6 @@ Desiree is a python programmer bridging urban planning and data science for poli
 - *Designing with AI (EdTech)*  | University of Cape Town |[![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
 
 ---
-
 
 ## 🛠️ Technical Toolkit
 
