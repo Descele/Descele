@@ -109,8 +109,6 @@
   </picture>
 </p>
 
----
-
 ###  Current Learning
 
 <ul>
