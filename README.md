@@ -100,10 +100,10 @@
         <img alt="Animated showcase of my skills" src="./Skills_Animation_White.gif" style="max-width: 100%; height: auto;">
       </picture>
     </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h3 style="text-align: center;">Current Learning</h3>
-      <ul>
-        <li>Deepening my knowledge in <strong>Data Visualization</strong>.</li>
+     <h3 style="text-align: center;">Current Learning</h3>
+<ul style="text-align: center; list-style-type: none; padding-left: 0;">
+  <li>Deepening my knowledge in <strong>Data Visualization</strong></li>
+</ul>
       </ul>
     </td>
   </tr>
