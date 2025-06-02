@@ -101,7 +101,9 @@
       </picture>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Current Learning</h3>
+     <div style="display: flex; justify-content: center;">
+  <h3>Current Learning</h3>
+</div>
       <ul>
         <li>Deepening my knowledge in <strong>Data Visualization</strong>.</li>
       </ul>
