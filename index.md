@@ -70,12 +70,12 @@
 ---
 ## Professional Experience
 
-**GIS Technician** | *Umkhanyakude District Municipality*  
+**GIS Technician** 
 - Optimized spatial queries, reducing planning decision time by 30%  
 - Migrated 12TB geospatial data to cloud infrastructure  
 - Resolved 80% of topological errors in municipal datasets  
 
-**GIS Intern** | *Dept. of Cooperative Governance*  
+**GIS Intern**  
 - Developed 30+ municipal property valuation maps  
 - Automated cadastral updates for 42 districts  
 
