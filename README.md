@@ -103,7 +103,7 @@
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Current Learning</h3>
       <ul>
-        <li>Deepening my knowledge in <strong>Machine Learning</strong> and <strong>AI</strong>.</li>
+        <li>Deepening my knowledge in <strong>Data Visualization</strong>.</li>
       </ul>
     </td>
   </tr>
