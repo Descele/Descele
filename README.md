@@ -2,15 +2,10 @@
   <img src="https://raw.githubusercontent.com/Descele/Descele/main/banner/banner.png" alt="Banner" />
 </p>
 
-**Ph.D. in Urban Planning (In progress)**  
-*University at Buffalo*  
-
+**Ph.D. in Urban Planning (In progress)**   
 **Master of Town & Regional Planning**  
-*University of KwaZulu-Natal*  
-
 **Bachelor of Technology in Urban Planning**  
-*Durban University of Technology*  
-
+ 
 **Professional Certifications**  
 - *Code in Place (Programming)* | Stanford University  
 - *Designing with AI (EdTech)*  | [![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
@@ -75,12 +70,12 @@
 ---
 ## Professional Experience
 
-**GIS Technician** | *Umkhanyakude District Municipality*  
+**GIS Technician**
 - Optimized spatial queries, reducing planning decision time by 30%  
 - Migrated 12TB geospatial data to cloud infrastructure  
 - Resolved 80% of topological errors in municipal datasets  
 
-**GIS Intern** | *Dept. of Cooperative Governance*  
+**GIS Intern**  
 - Developed 30+ municipal property valuation maps  
 - Automated cadastral updates for 42 districts  
 
