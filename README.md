@@ -101,7 +101,7 @@
       </picture>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Current Learning</h3>
+      <h3 style="text-align: center;">Current Learning</h3>
       <ul>
         <li>Deepening my knowledge in <strong>Data Visualization</strong>.</li>
       </ul>
