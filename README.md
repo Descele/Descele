@@ -90,11 +90,6 @@
 
 📫 Reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/desiree-cele-783a7026/)
 ---
-<!--Collaboration-->
-<h2 align="left">🌐 Let's Collaborate! </h2>
-
-📫 Reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/desiree-cele-783a7026/)
----
 <!-- Languages and Tools Section -->
 <table>
   <tr>
