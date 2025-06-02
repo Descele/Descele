@@ -101,6 +101,7 @@
       </picture>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
+      
      <div style="display: flex; justify-content: center;">
   <h3>Current Learning</h3>
 </div>
