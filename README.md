@@ -7,8 +7,11 @@
 **Bachelor of Technology in Urban Planning**  
  
 **Professional Certifications**  
-- *Code in Place (Programming)* | Stanford University  
-- *Designing with AI (EdTech)*  | [![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)  
+- *Code in Place (Programming)* | [Stanford University ](https://img.shields.io/badge/Stanford_Verified_Certificate-View_Validation-8C1515?style=flat-square&logo=verified&logoColor=white) 
+- *Designing with AI (EdTech)*  | [![UCT Verified](https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white)](https://qrcodeverify.uct.ac.za/?reference=42907982-01-AEEO)
+- Code in Place (Programming) | 
+
+Designing with AI (EdTech) | https://img.shields.io/badge/UCT_Verified_Credential-View_Validation-0077B5?style=flat-square&logo=verified&logoColor=white
 
 ---
 
